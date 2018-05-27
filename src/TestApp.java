@@ -6,9 +6,10 @@ public class TestApp {
 		int age = 13 ;
 		int birthYear = 2000 ;
 		
-		int thisYear = age + birthYear ;
+		int thisYear = calcYear( age , birthYear);
 		
 		System.out.println("the result = "+thisYear);
+		System.out.println("I am actully the master branch");
 		
 	}
 	
