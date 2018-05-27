@@ -21,5 +21,9 @@ public class TestApp {
 	{
 		return x + y ;
 	}
+	public static int calcYear(int x , int y , int z , int c)
+	{
+		return x + y ;
+	}
 
 }
